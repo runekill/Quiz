@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Quiz</string>
-    <string name="question_text">Constantinople is the largest city in Turkey</string>
+    <string name="question_cities">Constantinople is the largest city in Turkey</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean</string>
     <string name="true_button">true</string>
     <string name="false_button">false</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
 </resources>
